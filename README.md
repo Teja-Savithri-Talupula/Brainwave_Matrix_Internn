@@ -13,7 +13,7 @@ Tools and Technologies
 
 Python: Primary programming language.
 Libraries: Pandas, NLTK, TextBlob, Matplotlib, Seaborn.
-Google Colab: For development and visualization.
+Google Colab/Jupyter Notebook: For development and visualization.
 
 Results
 The analysis outputs sentiment scores and visualizations, helping to track public opinion and sentiment trends effectively.
